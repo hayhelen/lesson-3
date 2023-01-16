@@ -1,0 +1,14 @@
+/**root */
+:root {
+    /* *fullname */
+
+    /**BACKGROUND*/
+    --primary-background:green;
+    /**TEXT COLOR*/
+    --primary-text-color: wheat;
+    /**FONT_SIZE */
+    --xl-text: 3rem ;
+    --l-text : 2 rem ;
+    --m-text : 1rem ;
+    --s-text : 8 rem ;
+}
